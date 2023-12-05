@@ -1,14 +1,10 @@
 {
   "private": true,
-  "name": "honghong.me",
-  "version": "0.0.0",
-  "description": "My personal website and blog built with TypeScript, Next.js, and Tailwind CSS",
+  "name": "edmlove",
+  "version": "0.0.1",
+  "description": "edmlove website",
   "license": "AGPL-3.0-only",
-  "author": "tszhong0411 <me@honghong.me> (https://github.com/tszhong0411/)",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tszhong0411/honghong.me.git"
-  },
+  "author": "hijorhe",
   "type": "module",
   "scripts": {
     "build": "next build",
